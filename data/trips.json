@@ -1,0 +1,26 @@
+[
+  {
+    "img": "../images/img.jpg",
+    "alt": "travel img",
+    "title": "Brazil, Rio",
+    "button": "View Location"
+  },
+  {
+    "img": "../images/img2.jpg",
+    "alt": "travel img",
+    "title": "Spain, Italy",
+    "button": "View Location"
+  },
+  {
+    "img": "../images/img3.jpg",
+    "alt": "travel img",
+    "title": "USA, New York",
+    "button": "View Location"
+  },
+  {
+    "img": "../images/img4.jpg",
+    "alt": "travel img",
+    "title": "London, UK",
+    "button": "View Location"
+  }
+]
